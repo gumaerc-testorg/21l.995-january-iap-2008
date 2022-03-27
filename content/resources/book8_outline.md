@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7c8944e-cc24-1a89-7afe-162bd0fed6ea
 resourcetype: Document
 title: book8_outline.pdf
 uid: 9c937c5f-3d67-9308-b5a6-b1d8d0350685

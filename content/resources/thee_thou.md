@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d7c8944e-cc24-1a89-7afe-162bd0fed6ea
 resourcetype: Document
 title: thee_thou.pdf
 uid: 0d71035c-f17f-3265-1c63-5baddcdcf64b
