@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources section provides links to background information,
+  E-texts, and artwork.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

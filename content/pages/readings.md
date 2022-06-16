@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The readings section provides links to the full text of Milton's Paradise
+  Lost.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Readings
 uid: dcff15a0-88b0-7d3d-291b-6fa49f879a4e
 ---
 
-Please also see [related resources]({{< baseurl >}}/pages/related-resources) for more links to relevant e-texts.
+Please also see {{% resource_link f667b334-6d40-228c-659f-26aeb45d62b3 "related resources" %}} for more links to relevant e-texts.
 
 {{< tableopen >}}
 {{< theadopen >}}

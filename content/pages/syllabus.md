@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  about course requirements, grading, recommended citation, and the schedule of lecture
+  topics and key dates for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -84,7 +87,7 @@ up to 6 or more
 
 {{< tableclose >}}
 
-Please see [assignments]({{< baseurl >}}/pages/assignments) for more information on the journals.
+Please see {{% resource_link 54a101ca-7185-c4de-569d-946b06f42985 "assignments" %}} for more information on the journals.
 
 Calendar
 --------

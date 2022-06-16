@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignments section provides guidelines on writing journals for the
+  class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
