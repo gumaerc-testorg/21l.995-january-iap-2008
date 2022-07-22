@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: The assignments section provides guidelines on writing journals for the
+  class.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 54a101ca-7185-c4de-569d-946b06f42985
 ---

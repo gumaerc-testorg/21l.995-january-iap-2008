@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The related resources section provides links to background information,
+  E-texts, and artwork.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: f667b334-6d40-228c-659f-26aeb45d62b3
 ---
