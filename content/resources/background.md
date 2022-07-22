@@ -6,6 +6,7 @@ file: /courses/21l-995-special-topics-in-literature-miltons-paradise-lost-januar
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: background.pdf
 uid: 5c29d132-ed26-7a12-81dc-c4aea5a11035
 ---
 Lecture notes with introductory background material for the reading of Paradise Lost.
-

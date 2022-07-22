@@ -6,6 +6,7 @@ file: /courses/21l-995-special-topics-in-literature-miltons-paradise-lost-januar
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: thee_thou.pdf
 uid: 0d71035c-f17f-3265-1c63-5baddcdcf64b
 ---
 Lecture notes on Milton's use of pronouns that are no longer commonly used in modern English.
-
