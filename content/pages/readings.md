@@ -2,99 +2,49 @@
 content_type: page
 description: The readings section provides links to the full text of Milton's Paradise
   Lost.
+draft: false
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: dcff15a0-88b0-7d3d-291b-6fa49f879a4e
 ---
+Please also see {{% resource_link "f667b334-6d40-228c-659f-26aeb45d62b3" "related resources" %}} for more links to relevant e-texts.
 
-Please also see {{% resource_link f667b334-6d40-228c-659f-26aeb45d62b3 "related resources" %}} for more links to relevant e-texts.
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-[Book I](http://www.dartmouth.edu/~milton/reading_room/pl/book_1/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book I](https://milton.host.dartmouth.edu/reading_room/pl/book_1/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-[Book II](http://www.dartmouth.edu/~milton/reading_room/pl/book_2/index.shtml), [Book III](http://www.dartmouth.edu/~milton/reading_room/pl/book_3/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book II](https://milton.host.dartmouth.edu/reading_room/pl/book_2/text.shtml), [Book III](https://milton.host.dartmouth.edu/reading_room/pl/book_3/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-[Book IV](http://www.dartmouth.edu/~milton/reading_room/pl/book_4/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book IV](https://milton.host.dartmouth.edu/reading_room/pl/book_4/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-[Book V](http://www.dartmouth.edu/~milton/reading_room/pl/book_5/index.shtml), [Book VI](http://www.dartmouth.edu/~milton/reading_room/pl/book_6/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book V](https://milton.host.dartmouth.edu/reading_room/pl/book_5/text.shtml), [Book VI](https://milton.host.dartmouth.edu/reading_room/pl/book_6/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-[Book VII](http://www.dartmouth.edu/~milton/reading_room/pl/book_7/index.shtml), [Book VIII](http://www.dartmouth.edu/~milton/reading_room/pl/book_8/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book VII](https://milton.host.dartmouth.edu/reading_room/pl/book_7/text.shtml), [Book VIII](https://milton.host.dartmouth.edu/reading_room/pl/book_8/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
-[Book IX](http://www.dartmouth.edu/~milton/reading_room/pl/book_9/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book IX](https://milton.host.dartmouth.edu/reading_room/pl/book_9/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-[Book X](http://www.dartmouth.edu/~milton/reading_room/pl/book_10/index.shtml), [Book XI](http://www.dartmouth.edu/~milton/reading_room/pl/book_11/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book X](https://milton.host.dartmouth.edu/reading_room/pl/book_10/text.shtml), [Book XI](https://milton.host.dartmouth.edu/reading_room/pl/book_11/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
-[Book XII](http://www.dartmouth.edu/~milton/reading_room/pl/book_12/index.shtml)
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< tdopen >}}
+[Book XII](https://milton.host.dartmouth.edu/reading_room/pl/book_12/text.shtml)
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
