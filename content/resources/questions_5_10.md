@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes with study questions for Paradise Lost, Books V-X.
-file: /courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/a3e2a0153241c2eafbb4f622619e248e_questions_5_10.pdf
+file: /ol-ocw-studio-app/courses/21l-995-special-topics-in-literature-miltons-paradise-lost-january-iap-2008/a3e2a0153241c2eafbb4f622619e248e_questions_5_10.pdf
 file_size: 25042
 file_type: application/pdf
 learning_resource_types:
